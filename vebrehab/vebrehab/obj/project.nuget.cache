@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "REzdyE++VvE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\vebrehab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.0\\microsoft.aspnetcore.app.internal.assets.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
