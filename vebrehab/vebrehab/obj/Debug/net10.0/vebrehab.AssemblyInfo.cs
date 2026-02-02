@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("vebrehab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc10508db9d5bfb8290bff202a372d777b9fd7c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4eccb3f6f4d765017b6f2c8f147ae850e47833a")]
 [assembly: System.Reflection.AssemblyProductAttribute("vebrehab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("vebrehab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

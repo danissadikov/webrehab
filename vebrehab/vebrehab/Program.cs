@@ -1,4 +1,4 @@
-using vebrehab.Components;
+using webrehab.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
