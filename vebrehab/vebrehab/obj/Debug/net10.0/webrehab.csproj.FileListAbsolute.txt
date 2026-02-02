@@ -79,8 +79,6 @@ C:\Users\danil\Documents\webrehab\vebrehab\vebrehab\obj\Debug\net10.0\compressed
 C:\Users\danil\Documents\webrehab\vebrehab\vebrehab\obj\Debug\net10.0\compressed\x2f1ty3r6k-{0}-63fj8s7r0e-63fj8s7r0e.gz
 C:\Users\danil\Documents\webrehab\vebrehab\vebrehab\obj\Debug\net10.0\compressed\ymnwkmi1tv-{0}-0j3bgjxly4-0j3bgjxly4.gz
 C:\Users\danil\Documents\webrehab\vebrehab\vebrehab\obj\Debug\net10.0\compressed\ayu4x4u54t-{0}-13ja33weya-13ja33weya.gz
-C:\Users\danil\Documents\webrehab\vebrehab\vebrehab\obj\Debug\net10.0\compressed\o5cyez62v4-{0}-wmp8iwak4q-wmp8iwak4q.gz
-C:\Users\danil\Documents\webrehab\vebrehab\vebrehab\obj\Debug\net10.0\compressed\9scj3235ff-{0}-2lgipwaf5j-2lgipwaf5j.gz
 C:\Users\danil\Documents\webrehab\vebrehab\vebrehab\obj\Debug\net10.0\compressed\mh8ex2wbu2-{0}-310xqg9v3w-310xqg9v3w.gz
 C:\Users\danil\Documents\webrehab\vebrehab\vebrehab\obj\Debug\net10.0\compressed\5ogu3aciiq-{0}-310xqg9v3w-310xqg9v3w.gz
 C:\Users\danil\Documents\webrehab\vebrehab\vebrehab\obj\Debug\net10.0\staticwebassets.build.json
@@ -95,3 +93,5 @@ C:\Users\danil\Documents\webrehab\vebrehab\vebrehab\obj\Debug\net10.0\refint\web
 C:\Users\danil\Documents\webrehab\vebrehab\vebrehab\obj\Debug\net10.0\webrehab.pdb
 C:\Users\danil\Documents\webrehab\vebrehab\vebrehab\obj\Debug\net10.0\webrehab.genruntimeconfig.cache
 C:\Users\danil\Documents\webrehab\vebrehab\vebrehab\obj\Debug\net10.0\ref\webrehab.dll
+C:\Users\danil\Documents\webrehab\vebrehab\vebrehab\obj\Debug\net10.0\compressed\o5cyez62v4-{0}-2i0r6wwb69-2i0r6wwb69.gz
+C:\Users\danil\Documents\webrehab\vebrehab\vebrehab\obj\Debug\net10.0\compressed\9scj3235ff-{0}-iz83ucvm53-iz83ucvm53.gz
