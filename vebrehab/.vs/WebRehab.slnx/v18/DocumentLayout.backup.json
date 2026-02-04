@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|solutionrelative:vebrehab\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\vebrehab\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|solutionrelative:vebrehab\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\vebrehab\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|solutionrelative:vebrehab\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -21,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\vebrehab\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|solutionrelative:vebrehab\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\vebrehab\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|solutionrelative:vebrehab\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\vebrehab\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Dashboard.razor",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\Pages\\Dashboard.razor",
               "RelativeDocumentMoniker": "vebrehab\\Pages\\Dashboard.razor",
@@ -76,14 +76,14 @@
               "RelativeDocumentMoniker": "vebrehab\\Pages\\NotFound.razor",
               "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\Pages\\NotFound.razor",
               "RelativeToolTip": "vebrehab\\Pages\\NotFound.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-02T16:07:49.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\Components\\App.razor",
               "RelativeDocumentMoniker": "vebrehab\\Components\\App.razor",
@@ -131,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "vebrehab\\Components\\Layout\\MainLayout.razor",
@@ -143,16 +143,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "vebrehab\\Components\\Layout\\NavMenu.razor",
               "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "vebrehab\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-02T15:26:48.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T15:26:48.716Z"
             }
           ]
         }
