@@ -95,3 +95,5 @@ C:\Users\danil\Documents\webrehab\vebrehab\vebrehab\obj\Debug\net10.0\webrehab.g
 C:\Users\danil\Documents\webrehab\vebrehab\vebrehab\obj\Debug\net10.0\ref\webrehab.dll
 C:\Users\danil\Documents\webrehab\vebrehab\vebrehab\obj\Debug\net10.0\compressed\o5cyez62v4-{0}-2i0r6wwb69-2i0r6wwb69.gz
 C:\Users\danil\Documents\webrehab\vebrehab\vebrehab\obj\Debug\net10.0\compressed\9scj3235ff-{0}-iz83ucvm53-iz83ucvm53.gz
+C:\Users\danil\Documents\webrehab\vebrehab\vebrehab\bin\Debug\net10.0\Data.dll
+C:\Users\danil\Documents\webrehab\vebrehab\vebrehab\bin\Debug\net10.0\Data.pdb

@@ -3,16 +3,124 @@
   "WorkspaceRootPath": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\vebrehab\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|solutionrelative:vebrehab\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\migrations\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|solutionrelative:data\\migrations\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\vebrehab\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|solutionrelative:vebrehab\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|solutionrelative:data\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\models\\exerciselog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|solutionrelative:data\\models\\exerciselog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\vebrehab\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|solutionrelative:vebrehab\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\vebrehab\\webrehab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|solutionrelative:vebrehab\\webrehab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\vebrehab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|solutionrelative:vebrehab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\vebrehab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|solutionrelative:vebrehab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\models\\patientstagestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|solutionrelative:data\\models\\patientstagestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\models\\stagecriterion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|solutionrelative:data\\models\\stagecriterion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\models\\rehabstage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|solutionrelative:data\\models\\rehabstage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\models\\rehabprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|solutionrelative:data\\models\\rehabprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\models\\testresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|solutionrelative:data\\models\\testresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\models\\conditiontestrecommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|solutionrelative:data\\models\\conditiontestrecommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\models\\testdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|solutionrelative:data\\models\\testdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\models\\progressentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|solutionrelative:data\\models\\progressentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\models\\exerciselogmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|solutionrelative:data\\models\\exerciselogmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\models\\workoutexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|solutionrelative:data\\models\\workoutexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\models\\workoutsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|solutionrelative:data\\models\\workoutsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\models\\workoutplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|solutionrelative:data\\models\\workoutplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\models\\templateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|solutionrelative:data\\models\\templateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\models\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|solutionrelative:data\\models\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\models\\exercisemedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|solutionrelative:data\\models\\exercisemedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\models\\mediaasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|solutionrelative:data\\models\\mediaasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\models\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|solutionrelative:data\\models\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\models\\patientcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|solutionrelative:data\\models\\patientcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\models\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|solutionrelative:data\\models\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\models\\visitnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|solutionrelative:data\\models\\visitnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\models\\patientassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|solutionrelative:data\\models\\patientassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|solutionrelative:data\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\identity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|solutionrelative:data\\identity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\vebrehab\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,16 +131,16 @@
       "RelativeMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|solutionrelative:vebrehab\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\vebrehab\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|solutionrelative:vebrehab\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\vebrehab\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|solutionrelative:vebrehab\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\vebrehab\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|solutionrelative:vebrehab\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\vebrehab\\webrehab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|solutionrelative:vebrehab\\webrehab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|solutionrelative:data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +150,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 28,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,19 +166,384 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\Program.cs",
+              "RelativeDocumentMoniker": "vebrehab\\Program.cs",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\Program.cs",
+              "RelativeToolTip": "vebrehab\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:17:13.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\appsettings.json",
+              "RelativeDocumentMoniker": "vebrehab\\appsettings.json",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\appsettings.json",
+              "RelativeToolTip": "vebrehab\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-10T04:14:08.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientStageStatus.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\PatientStageStatus.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\PatientStageStatus.cs",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\PatientStageStatus.cs",
+              "RelativeToolTip": "Data\\Models\\PatientStageStatus.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:13:30Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StageCriterion.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\StageCriterion.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\StageCriterion.cs",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\StageCriterion.cs",
+              "RelativeToolTip": "Data\\Models\\StageCriterion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:13:08.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RehabStage.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\RehabStage.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\RehabStage.cs",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\RehabStage.cs",
+              "RelativeToolTip": "Data\\Models\\RehabStage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:12:42.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RehabProtocol.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\RehabProtocol.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\RehabProtocol.cs",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\RehabProtocol.cs",
+              "RelativeToolTip": "Data\\Models\\RehabProtocol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:12:28.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestResult.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\TestResult.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\TestResult.cs",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\TestResult.cs",
+              "RelativeToolTip": "Data\\Models\\TestResult.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:11:47.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConditionTestRecommendation.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\ConditionTestRecommendation.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\ConditionTestRecommendation.cs",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\ConditionTestRecommendation.cs",
+              "RelativeToolTip": "Data\\Models\\ConditionTestRecommendation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:11:29.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TestDefinition.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\TestDefinition.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\TestDefinition.cs",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\TestDefinition.cs",
+              "RelativeToolTip": "Data\\Models\\TestDefinition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:10:19.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProgressEntry.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\ProgressEntry.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\ProgressEntry.cs",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\ProgressEntry.cs",
+              "RelativeToolTip": "Data\\Models\\ProgressEntry.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:09:39.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExerciseLogMedia.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\ExerciseLogMedia.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\ExerciseLogMedia.cs",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\ExerciseLogMedia.cs",
+              "RelativeToolTip": "Data\\Models\\ExerciseLogMedia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:09:26.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExerciseLog.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\ExerciseLog.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\ExerciseLog.cs",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\ExerciseLog.cs",
+              "RelativeToolTip": "Data\\Models\\ExerciseLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:09:11.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WorkoutExercise.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\WorkoutExercise.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\WorkoutExercise.cs",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\WorkoutExercise.cs",
+              "RelativeToolTip": "Data\\Models\\WorkoutExercise.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:08:57.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WorkoutSession.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\WorkoutSession.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\WorkoutSession.cs",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\WorkoutSession.cs",
+              "RelativeToolTip": "Data\\Models\\WorkoutSession.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:08:41.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WorkoutPlan.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\WorkoutPlan.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\WorkoutPlan.cs",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\WorkoutPlan.cs",
+              "RelativeToolTip": "Data\\Models\\WorkoutPlan.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:08:28.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TemplateItem.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\TemplateItem.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\TemplateItem.cs",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\TemplateItem.cs",
+              "RelativeToolTip": "Data\\Models\\TemplateItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:08:14.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Template.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\Template.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Template.cs",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\Template.cs",
+              "RelativeToolTip": "Data\\Models\\Template.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:07:50.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ExerciseMedia.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\ExerciseMedia.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\ExerciseMedia.cs",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\ExerciseMedia.cs",
+              "RelativeToolTip": "Data\\Models\\ExerciseMedia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:06:55.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MediaAsset.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\MediaAsset.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\MediaAsset.cs",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\MediaAsset.cs",
+              "RelativeToolTip": "Data\\Models\\MediaAsset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:06:41.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Exercise.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\Exercise.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Exercise.cs",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\Exercise.cs",
+              "RelativeToolTip": "Data\\Models\\Exercise.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwBoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:06:19.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PatientCondition.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\PatientCondition.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\PatientCondition.cs",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\PatientCondition.cs",
+              "RelativeToolTip": "Data\\Models\\PatientCondition.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:06:04.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Condition.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\Condition.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Condition.cs",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\Condition.cs",
+              "RelativeToolTip": "Data\\Models\\Condition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:05:43.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "VisitNote.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\VisitNote.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\VisitNote.cs",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\VisitNote.cs",
+              "RelativeToolTip": "Data\\Models\\VisitNote.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:05:16.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PatientAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\PatientAssignment.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\PatientAssignment.cs",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\PatientAssignment.cs",
+              "RelativeToolTip": "Data\\Models\\PatientAssignment.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:04:54.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\Patient.cs",
+              "RelativeToolTip": "Data\\Models\\Patient.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:04:18.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Migrations\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\DataContext.cs",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Migrations\\DataContext.cs",
+              "RelativeToolTip": "Data\\Migrations\\DataContext.cs",
+              "ViewState": "AgIAAAkCAAAAAAAAAADwvxwCAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:02:56.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Identity\\User.cs",
+              "RelativeDocumentMoniker": "Data\\Identity\\User.cs",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Identity\\User.cs",
+              "RelativeToolTip": "Data\\Identity\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T03:52:53.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Data\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T18:44:46.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "Dashboard.razor",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\Pages\\Dashboard.razor",
               "RelativeDocumentMoniker": "vebrehab\\Pages\\Dashboard.razor",
               "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\Pages\\Dashboard.razor",
               "RelativeToolTip": "vebrehab\\Pages\\Dashboard.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-02T16:08:52.949Z"
+              "WhenOpened": "2026-02-02T16:08:52.949Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 32,
               "Title": "NotFound.razor",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\Pages\\NotFound.razor",
               "RelativeDocumentMoniker": "vebrehab\\Pages\\NotFound.razor",
@@ -83,19 +556,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\Components\\App.razor",
               "RelativeDocumentMoniker": "vebrehab\\Components\\App.razor",
               "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\Components\\App.razor",
               "RelativeToolTip": "vebrehab\\Components\\App.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-02T16:06:09.424Z"
+              "WhenOpened": "2026-02-02T16:06:09.424Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 34,
               "Title": "Routes.razor",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\Components\\Routes.razor",
               "RelativeDocumentMoniker": "vebrehab\\Components\\Routes.razor",
@@ -103,47 +577,38 @@
               "RelativeToolTip": "vebrehab\\Components\\Routes.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-02T16:04:52.466Z"
+              "WhenOpened": "2026-02-02T16:04:52.466Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "webrehab.csproj",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\webrehab.csproj",
               "RelativeDocumentMoniker": "vebrehab\\webrehab.csproj",
               "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\webrehab.csproj",
               "RelativeToolTip": "vebrehab\\webrehab.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-02T15:51:49.018Z"
+              "WhenOpened": "2026-02-02T15:51:49.018Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Class1.cs",
-              "RelativeDocumentMoniker": "Data\\Class1.cs",
-              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Class1.cs",
-              "RelativeToolTip": "Data\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T15:31:10.189Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 31,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "vebrehab\\Components\\Layout\\MainLayout.razor",
               "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\Components\\Layout\\MainLayout.razor",
               "RelativeToolTip": "vebrehab\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-02T15:27:12.64Z"
+              "WhenOpened": "2026-02-02T15:27:12.64Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 33,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "vebrehab\\Components\\Layout\\NavMenu.razor",
