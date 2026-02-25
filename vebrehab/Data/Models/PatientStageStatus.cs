@@ -1,7 +1,7 @@
 ﻿using Data.Identity;
-using Microsoft.EntityFrameworkCore;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.EntityFrameworkCore;
 
 namespace Data.Models;
 
@@ -26,7 +26,7 @@ public class PatientStageStatus : BaseEntity
     public string Status { get; set; } = "active";
 
     [Required, Column("changed_by_user_id")]
-    public int ChangedByUserId { get; set; }
+    public Guid ChangedByUserId { get; set; } // Обязательный
 
     [Required, Column("changed_at")]
     public DateTime ChangedAt { get; set; }

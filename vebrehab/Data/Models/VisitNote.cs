@@ -1,7 +1,7 @@
-﻿using Data.Identity;
-using Microsoft.EntityFrameworkCore;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using Data.Identity;
+using Microsoft.EntityFrameworkCore;
 
 namespace Data.Models;
 
@@ -15,7 +15,7 @@ public class VisitNote : BaseEntity
     public int PatientId { get; set; }
 
     [Required, Column("author_user_id")]
-    public int AuthorUserId { get; set; }
+    public Guid AuthorUserId { get; set; } // Обязательный
 
     [Required, Column("visit_date")]
     public DateOnly VisitDate { get; set; }

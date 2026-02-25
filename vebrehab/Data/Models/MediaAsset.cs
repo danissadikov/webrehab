@@ -17,7 +17,7 @@ public class MediaAsset : BaseEntity
     public string Url { get; set; }
 
     [Column("uploaded_by_user_id")]
-    public int? UploadedByUserId { get; set; }
+    public Guid? UploadedByUserId { get; set; }
 
     [Column("patient_id")]
     public int? PatientId { get; set; }

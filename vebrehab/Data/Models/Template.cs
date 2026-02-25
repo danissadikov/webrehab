@@ -17,7 +17,7 @@ public class Template : BaseEntity
     public string? Description { get; set; }
 
     [Column("owner_user_id")]
-    public int? OwnerId { get; set; }
+    public Guid? OwnerId { get; set; }
 
     [Required, Column("visibility"), StringLength(50)]
     public string Visibility { get; set; } = "global";

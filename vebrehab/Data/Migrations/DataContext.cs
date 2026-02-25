@@ -79,7 +79,7 @@ public class DataContext : DbContext
         base.OnModelCreating(modelBuilder);
 
         // Настройка конвертеров для JSON-полей
-        ConfigureJsonConverters(modelBuilder);
+        //ConfigureJsonConverters(modelBuilder);
 
         // Настройка отношений (опционально, так как атрибуты уже есть)
         //ConfigureRelationships(modelBuilder);
@@ -88,7 +88,7 @@ public class DataContext : DbContext
         //ConfigureGlobalFilters(modelBuilder);
 
         // Настройка соглашений
-        ConfigureConventions(modelBuilder);
+        //ConfigureConventions(modelBuilder);
     }
 
     // ====================
@@ -501,17 +501,17 @@ public class DataContext : DbContext
 
     private void UpdateTimestamps()
     {
-        var entries = ChangeTracker.Entries<BaseEntity>()
-            .Where(e => e.State == EntityState.Added || e.State == EntityState.Modified);
+        //var entries = ChangeTracker.Entries<BaseEntity>()
+        //    .Where(e => e.State == EntityState.Added || e.State == EntityState.Modified);
 
-        foreach (var entry in entries)
-        {
-            if (entry.Entity is User user && entry.State == EntityState.Added)
-            {
-                // created_at устанавливается базой данных
-            }
-            // Аналогично для других сущностей
-        }
+        //foreach (var entry in entries)
+        //{
+        //    if (entry.Entity is User user && entry.State == EntityState.Added)
+        //    {
+        //        // created_at устанавливается базой данных
+        //    }
+        //    // Аналогично для других сущностей
+        //}
     }
 
     // ====================

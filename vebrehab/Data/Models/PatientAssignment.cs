@@ -1,7 +1,7 @@
-﻿using Data.Identity;
-using Microsoft.EntityFrameworkCore;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using Data.Identity;
+using Microsoft.EntityFrameworkCore;
 
 namespace Data.Models;
 
@@ -14,8 +14,8 @@ public class PatientAssignment : BaseEntity
     [Required, Column("patient_id")]
     public int PatientId { get; set; }
 
-    [Required, Column("user_id")]
-    public int UserId { get; set; }
+    [Required, Column("user_id")] // therapist
+    public Guid UserId { get; set; }
 
     [Required, Column("status"), StringLength(50)]
     public string Status { get; set; } = "active";

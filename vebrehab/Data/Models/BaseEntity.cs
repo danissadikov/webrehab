@@ -1,4 +1,7 @@
-﻿namespace Data.Models;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace Data.Models;
 
 /// <summary>
 /// Базовая сущность бд
@@ -8,5 +11,6 @@ public abstract class BaseEntity
     /// <summary>
     /// Идентификатор
     /// </summary>
-    int Id { get; set; }
+    [Key, Column("id")]
+    public int Id { get; set; }
 }

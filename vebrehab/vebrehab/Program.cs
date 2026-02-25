@@ -11,7 +11,7 @@ builder.Services.AddRazorComponents()
 // Добавление DbContext
 builder.Services.AddDbContext<DataContext>(options =>
 {
-    var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+    var connectionString = builder.Configuration.GetConnectionString("Default");
 
     // PostgreSQL
     options.UseNpgsql(connectionString, npgsqlOptions =>
@@ -42,5 +42,12 @@ app.UseAntiforgery();
 app.MapStaticAssets();
 app.MapRazorComponents<App>()
     .AddInteractiveServerRenderMode();
+
+// Автоматическое применение миграций при запуске
+using (var scope = app.Services.CreateScope())
+{
+    var dbContext = scope.ServiceProvider.GetRequiredService<DataContext>();
+    dbContext.Database.Migrate();
+}
 
 app.Run();

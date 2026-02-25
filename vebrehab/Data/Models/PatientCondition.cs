@@ -34,7 +34,7 @@ public class PatientCondition : BaseEntity
     public string? Notes { get; set; }
 
     [Required, Column("created_by_user_id")]
-    public int CreatedByUserId { get; set; }
+    public Guid CreatedByUserId { get; set; }
 
     [Required, Column("created_at"), DatabaseGenerated(DatabaseGeneratedOption.Computed)]
     public DateTime CreatedAt { get; set; }

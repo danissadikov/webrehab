@@ -1,7 +1,7 @@
-﻿using Data.Identity;
-using Microsoft.EntityFrameworkCore;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using Data.Identity;
+using Microsoft.EntityFrameworkCore;
 
 namespace Data.Models;
 
@@ -11,7 +11,7 @@ namespace Data.Models;
 public class Patient : BaseEntity
 {
     [Column("user_id")]
-    public int? UserId { get; set; }
+    public Guid UserId { get; set; }
 
     [Required, Column("full_name"), MaxLength(255)]
     public string FullName { get; set; }
@@ -32,7 +32,7 @@ public class Patient : BaseEntity
     public DateTime CreatedAt { get; set; }
 
     [ForeignKey(nameof(UserId))]
-    public virtual User? User { get; set; }
+    public virtual User User { get; set; }
 
     public virtual ICollection<PatientAssignment> Assignments { get; set; } = new List<PatientAssignment>();
     public virtual ICollection<VisitNote> VisitNotes { get; set; } = new List<VisitNote>();

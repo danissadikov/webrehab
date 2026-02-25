@@ -1,7 +1,7 @@
 ﻿using Data.Identity;
-using Microsoft.EntityFrameworkCore;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.EntityFrameworkCore;
 
 namespace Data.Models;
 
@@ -21,7 +21,7 @@ public class ExerciseLog : BaseEntity
     public int PatientId { get; set; }
 
     [Required, Column("created_by_user_id")]
-    public int CreatedByUserId { get; set; }
+    public Guid CreatedByUserId { get; set; } // Обязательный
 
     [Column("performed_at")]
     public DateTime? PerformedAt { get; set; }
