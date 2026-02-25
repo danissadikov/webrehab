@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("webrehab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08593000f17e4d12948c8b4dfed60239f15ecf6e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c274dae1bb8cba76f5fbfe1decd19981692574c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("webrehab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("webrehab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
