@@ -1,12 +1,14 @@
 using Microsoft.EntityFrameworkCore;
 using webrehab.Components;
 using Data;
+using MudBlazor.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+builder.Services.AddMudServices();
 
 // Добавление DbContext
 builder.Services.AddDbContext<DataContext>(options =>

@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\vebrehab\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|solutionrelative:vebrehab\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\vebrehab\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|solutionrelative:vebrehab\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\vebrehab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|solutionrelative:vebrehab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\vebrehab\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\vebrehab\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|solutionrelative:vebrehab\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\vebrehab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F66ACE5F-E02E-E76E-E091-AE8D3938E6BB}|vebrehab\\webrehab.csproj|solutionrelative:vebrehab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69A89F57-3727-4765-9400-B7F87EF80562}|Data\\Data.csproj|c:\\users\\danil\\documents\\webrehab\\vebrehab\\data\\models\\testresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -111,6 +115,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "vebrehab\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "vebrehab\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T17:38:53.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Dashboard.razor",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\Pages\\Dashboard.razor",
               "RelativeDocumentMoniker": "vebrehab\\Pages\\Dashboard.razor",
@@ -123,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\Components\\App.razor",
               "RelativeDocumentMoniker": "vebrehab\\Components\\App.razor",
@@ -136,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "vebrehab\\Components\\_Imports.razor",
@@ -149,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\appsettings.json",
               "RelativeDocumentMoniker": "vebrehab\\appsettings.json",
@@ -161,20 +178,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\Program.cs",
               "RelativeDocumentMoniker": "vebrehab\\Program.cs",
               "ToolTip": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\vebrehab\\Program.cs",
               "RelativeToolTip": "vebrehab\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAADEAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T15:39:37.997Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "20260211153637_initial_create.cs",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Migrations\\20260211153637_initial_create.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20260211153637_initial_create.cs",
@@ -186,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "WorkoutPlan.cs",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\WorkoutPlan.cs",
               "RelativeDocumentMoniker": "Data\\Models\\WorkoutPlan.cs",
@@ -198,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "VisitNote.cs",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\VisitNote.cs",
               "RelativeDocumentMoniker": "Data\\Models\\VisitNote.cs",
@@ -210,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TestResult.cs",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\TestResult.cs",
               "RelativeDocumentMoniker": "Data\\Models\\TestResult.cs",
@@ -223,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "TestDefinition.cs",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\TestDefinition.cs",
               "RelativeDocumentMoniker": "Data\\Models\\TestDefinition.cs",
@@ -235,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Template.cs",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\Template.cs",
               "RelativeDocumentMoniker": "Data\\Models\\Template.cs",
@@ -247,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "RehabProtocol.cs",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\RehabProtocol.cs",
               "RelativeDocumentMoniker": "Data\\Models\\RehabProtocol.cs",
@@ -259,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ProgressEntry.cs",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\ProgressEntry.cs",
               "RelativeDocumentMoniker": "Data\\Models\\ProgressEntry.cs",
@@ -271,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "PatientStageStatus.cs",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\PatientStageStatus.cs",
               "RelativeDocumentMoniker": "Data\\Models\\PatientStageStatus.cs",
@@ -283,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Patient.cs",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\Patient.cs",
               "RelativeDocumentMoniker": "Data\\Models\\Patient.cs",
@@ -295,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "PatientCondition.cs",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\PatientCondition.cs",
               "RelativeDocumentMoniker": "Data\\Models\\PatientCondition.cs",
@@ -307,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "PatientAssignment.cs",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\PatientAssignment.cs",
               "RelativeDocumentMoniker": "Data\\Models\\PatientAssignment.cs",
@@ -319,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "MediaAsset.cs",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\MediaAsset.cs",
               "RelativeDocumentMoniker": "Data\\Models\\MediaAsset.cs",
@@ -331,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Exercise.cs",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\Exercise.cs",
               "RelativeDocumentMoniker": "Data\\Models\\Exercise.cs",
@@ -343,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ExerciseLog.cs",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\ExerciseLog.cs",
               "RelativeDocumentMoniker": "Data\\Models\\ExerciseLog.cs",
@@ -355,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Data\\Models\\BaseEntity.cs",
@@ -367,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Condition.cs",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Models\\Condition.cs",
               "RelativeDocumentMoniker": "Data\\Models\\Condition.cs",
@@ -379,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Identity\\User.cs",
               "RelativeDocumentMoniker": "Data\\Identity\\User.cs",
@@ -391,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\danil\\Documents\\webrehab\\vebrehab\\Data\\Migrations\\DataContext.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\DataContext.cs",
