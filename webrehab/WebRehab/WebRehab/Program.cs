@@ -5,10 +5,10 @@ using WebRehab.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddMudServices();
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
-builder.Services.AddMudServices();
 
 // Добавление DbContext
 builder.Services.AddDbContext<DataContext>(options =>
